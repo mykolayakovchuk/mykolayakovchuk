@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mykolayakovchuk
 - 👀 I’m interested in developing web applications
 - 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on javascript games and php projects
 - 📫 How to reach me: mykolayakovchuk@gmail.com
 
 <!---
